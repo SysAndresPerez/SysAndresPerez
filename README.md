@@ -10,10 +10,12 @@
 
 <!--About me-->  
 
-# <img src="https://media.giphy.com/media/xUOrvZ4p5o3QlIumZO/giphy.gif" width="35"/> About me 
+# <img src="https://media.giphy.com/media/xUOrvZ4p5o3QlIumZO/giphy.gif" width="35"/> About me
+
 *Computer systems engineer (Tester QA / Technical support)*
 <br/>              
-<p align="left">Hello good morning.
+<p align="left">
+Hello good morning.
 I am a young man who recently graduated looking for a job opportunity. I have some experience in automation with the help of selenium and maintenance of computer equipment, I still lack work experience. </p>
 
 - ✨ Student for life
@@ -21,7 +23,11 @@ I am a young man who recently graduated looking for a job opportunity. I have so
 - 🤓 Intern at **Fusion T and a1qa**.
 - 🎙️ Languages: **Spanish and English**.
 
-
+Anything else? For HR... 
+- 😶‍🌫️ I'm proactive, introverted young man, stubborn until I learn something. 
+- 🙊 Without fear to ask.
+- 👾 Gamer and Geek.
+- 👻 Trying to improve my English, in fact I am B2.
 <!--Skills-->
 
 # <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="45"/> Skills And Tᴏᴏʟs
@@ -44,7 +50,7 @@ I am a young man who recently graduated looking for a job opportunity. I have so
       <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/SysAndresPerez/">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kiran1689&count_private=true&show_icons=true&theme=nightowl" alt="GitHub Stats" />
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=SysAndresPerez&count_private=true&show_icons=true&theme=nightowl" alt="GitHub Stats" />
         </a>
       </p>
     </td>
@@ -52,14 +58,14 @@ I am a young man who recently graduated looking for a job opportunity. I have so
       <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/SysAndresPerez/">
-          <img align="center" src="https://streak-stats.demolab.com?user=Kiran1689&theme=nightowl" alt="Streak Stats" />
+          <img align="center" src="https://streak-stats.demolab.com?user=SysAndresPerez&theme=nightowl" alt="Streak Stats" />
         </a>
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
+      <h3 align="center"><strong>WIP</strong></h3>
       <p align="center">
         <a href="https://github.com/SysAndresPerez/">
           <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Kiran1689&repo=cryptos&theme=nightowl&show_owner=true" alt="Lastest Project" />
@@ -71,7 +77,7 @@ I am a young man who recently graduated looking for a job opportunity. I have so
       <p align="center">
         <a href="https://github.com/SysAndresPerez/">
           <div align="center">
-                <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kiran1689&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="20">
+                <img src="https://github-readme-activity-graph.vercel.app/graph?username=SysAndresPerez&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="20">
         </div>
         </a>
       </p>
