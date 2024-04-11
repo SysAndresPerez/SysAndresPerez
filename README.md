@@ -68,7 +68,7 @@ Anything else? For HR...
       <h3 align="center"><strong>WIP</strong></h3>
       <p align="center">
         <a href="https://github.com/SysAndresPerez/">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Kiran1689&repo=cryptos&theme=nightowl&show_owner=true" alt="Lastest Project" />
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=SysAndresPerez&repo=Steam_exercises&theme=nightowl&show_owner=true" alt="Lastest Project" />
         </a>
       </p>
     </td>
